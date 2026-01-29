@@ -1,20 +1,33 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 🏟️ The Gaffer
 
-# Run and deploy your AI Studio app
+> **"Tactics win games, but vibes win seasons."**
 
-This contains everything you need to run your app locally.
+**The Gaffer** is a football-themed productivity app that turns your boring academic semester into a high-stakes league campaign. Built entirely via **Vibe Coding**, this project focuses on rapid prototyping, clean UI, and peak competitive energy.
 
-View your app in AI Studio: https://ai.studio/apps/drive/13cEIm2CumK1FFky9In2eEuhW9P8xV-Li
+## ⚽ The Vibe
+Traditional to-do apps are a drag. **The Gaffer** treats your life like a Premier League season. 
+- **Tasks = Fixtures.**
+- **Checking a box = Scoring a Goal.**
+- **Top of the Table = Legend.**
+- **Bottom of the Table = VAR Punishment.**
 
-## Run Locally
+## 🚀 Features (All Vibe, No Fluff)
+- **The Technical Area:** Quick signup and simple league creation. Just share a code with your mates and the season starts.
+- **The Golden Boot Race:** Shared assignments are "Common Fixtures." First one to upload the solution gets the most points. Speed is everything.
+- **Matchweeks:** A 7-day sprint where the table resets. Sunday night is "Final Whistle" time.
+- **VAR Reviews:** If you're bottom of the league, be ready. Your friends pick a football-themed penalty (paying for the post-game drinks, running laps, etc.).
+- **Goal Celebrations:** Hit your targets and trigger animations like the "Siu" or a knee slide. Miss a deadline? You’re getting a **Red Card.**
 
-**Prerequisites:**  Node.js
+## 🎨 Design Philosophy
+- **Font:** Inter / Open Sans (Clean, minimalist, professional).
+- **Vibe:** Minimalist "Dressing Room" aesthetic.
+- **Stack:** Built using AI-driven logic and modern web tools for maximum speed and "get-it-done" energy.
 
+## 🏆 The Rulebook
+1. **Join a League:** Sign up, enter your name, and hop into a league with your friends.
+2. **Score Goals:** Complete your tasks. The harder the task, the more points you get.
+3. **Finish First:** Beat your friends to the finish line on common assignments to claim the top spot.
+4. **Avoid the Drop:** Stay out of the relegation zone unless you want to face the weekly punishment.
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+---
+*Created by a Chemical Engineering student who spends too much time thinking about F1 and Football.*
