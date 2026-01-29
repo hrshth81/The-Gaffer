@@ -1,0 +1,7 @@
+{
+  "name": "The Gaffer",
+  "description": "A high-octane productivity app that gamifies your college semester as a football season. Manage fixtures, climb the league table, and avoid the VAR punishments.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
