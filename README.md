@@ -29,5 +29,4 @@ Traditional to-do apps are a drag. **The Gaffer** treats your life like a Premie
 3. **Finish First:** Beat your friends to the finish line on common assignments to claim the top spot.
 4. **Avoid the Drop:** Stay out of the relegation zone unless you want to face the weekly punishment.
 
----
-*Created by a Chemical Engineering student who spends too much time thinking about F1 and Football.*
+
